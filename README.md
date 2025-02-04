@@ -1,2 +1,2 @@
-# projet_algo2
-Projet réalisé en 2025 durant ma première année en école d'ingénieur, réalisé en binôme
+# Projet cours Algorithmique 2 (2024)
+Projet réalisé en binôme pour les cours d'algorithmique 2 à l'ENSSAT, c'est un jeu du démineur jouable dans le terminal avec une ia qui peut indiquer le meilleur coup suivant à jouer.
